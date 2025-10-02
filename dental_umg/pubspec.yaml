@@ -14,13 +14,11 @@ dependencies:
   firebase_core: ^2.24.0
   cloud_firestore: ^4.13.0
   
+  # Formateo de fechas
+  intl: ^0.19.0
+  
   # UI
   cupertino_icons: ^1.0.2
-  google_fonts: ^6.1.0
-  
-  # Geolocalización (para futura implementación)
-  geolocator: ^10.1.0
-  google_maps_flutter: ^2.5.0
 
 dev_dependencies:
   flutter_test:
